@@ -61,9 +61,9 @@ import {
 	Vector4,
 	VectorKeyframeTrack,
 	sRGBEncoding
-} from "../../../build/three.module.js";
-import { Zlib } from "../libs/inflate.module.min.js";
-import { NURBSCurve } from "../curves/NURBSCurve.js";
+} from "https://github.com/Tastra/ThreeJS_touchscreen_demo/blob/master/three.module.js";
+import { Zlib } from "https://github.com/Tastra/ThreeJS_touchscreen_demo/blob/master/inflate.module.min.js";
+import { NURBSCurve } from "https://github.com/Tastra/ThreeJS_touchscreen_demo/blob/master/NURBSCurve.js";
 
 
 var FBXLoader = ( function () {
