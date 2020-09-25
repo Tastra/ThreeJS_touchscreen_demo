@@ -9,7 +9,7 @@
 import {
 	Vector3,
 	Vector4
-} from "../../../build/three.module.js";
+} from "https://github.com/Tastra/ThreeJS_touchscreen_demo/blob/master/three.module.js";
 
 
 /**************************************************************
