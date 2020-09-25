@@ -12,8 +12,8 @@ import {
 	Curve,
 	Vector3,
 	Vector4
-} from "../../../build/three.module.js";
-import { NURBSUtils } from "../curves/NURBSUtils.js";
+} from "https://github.com/Tastra/ThreeJS_touchscreen_demo/blob/master/three.module.js";
+import { NURBSUtils } from "https://github.com/Tastra/ThreeJS_touchscreen_demo/blob/master/NURBSUtils.js";
 
 
 /**************************************************************
